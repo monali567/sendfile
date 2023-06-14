@@ -22,4 +22,4 @@ jobs:
           # Stage the file, commit and push
           git add Network_Output_payload.txt
           git commit -m "Add Output file"
-          git push APICall :main
+          git push APICall main
