@@ -22,5 +22,5 @@ jobs:
           # Stage the file, commit and push
           git add Network_Output_payload.txt
           git commit -m "Add Output file"
-          git remote set-url origin https://Token@github.com/monali567/repo2.git
+          git remote set-url origin https://github.com/monali567/APICall.git
           git push origin main
